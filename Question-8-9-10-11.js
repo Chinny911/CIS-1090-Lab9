@@ -18,6 +18,9 @@ function spelledCorrectly(word){
 
 let words = text.split(" ");
 //❓ LAB QUESTION 8:
+console.log(words)
+console.log(typeof(words))
+console.log(typeof(words) === 'object')
 
 words = words.map(lowercase);
 //❓ LAB QUESTION 9:
