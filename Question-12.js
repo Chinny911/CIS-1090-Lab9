@@ -7,3 +7,4 @@ function isEven(number){
 
 //❓ LAB QUESTION 12:
 //YOUR CODE HERE
+console.log(numbers.filter(isEven));
